@@ -1,3 +1,5 @@
+package classwork;
+
 public class testov2 {
     public static int makeSomething(int i, int j) {
         return i + j;

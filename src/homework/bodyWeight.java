@@ -1,10 +1,10 @@
 package homework;
 import java.util.Scanner;
-public class project12 {
+public class bodyWeight{
 
 
 
-    public class BodyWeight {
+
 
         public static void main(String[] args) {
 
@@ -47,4 +47,4 @@ public class project12 {
         }
 
     }
-}
+

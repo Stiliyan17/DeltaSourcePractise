@@ -1,7 +1,9 @@
+package homework;
+
 import java.text.DecimalFormat;
 import java.util.Scanner;
 
-public class testov3 {
+public class moneyChanging {
     public static void main(String[] args) {
         DecimalFormat df = new DecimalFormat("#.##");
         Scanner scanner = new Scanner(System.in);
